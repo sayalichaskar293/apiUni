@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400');
+
+
+table {
+    border: 1px solid;
+    border-radius: 2px;
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+
+  th {
+    border: 1.5px solid;
+    border-color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #CD104D;
+    color: #fff;
+  }
+
+  td{
+    border: 0.5px solid;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+   
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  h1{
+    text-align: center;
+  }
