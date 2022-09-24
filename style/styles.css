@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400');
 
+h1{
+  text-align: center;
+}
 
 table {
     border: 1px solid;
